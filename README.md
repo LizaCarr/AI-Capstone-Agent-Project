@@ -1,2 +1,2 @@
-# AI-Agent-Creation-Project
+# AI-Agent-Capstone-Project
 "A conversational AI agent using DialoGPT and Semantic Kernel for educational purposes
